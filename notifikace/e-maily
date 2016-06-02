@@ -8,10 +8,12 @@ Na téhle stránce bych asi nic neměl. Uvažuju jen o tom “oddílovém čísl
 
 Potvrzovací email:
 Email mi zkončil ve SPAMU!! to se musí opravit. Email teď chodí z adresy info@petkari.cz a já bych byl pro to změnit to na → registrace@petkari.cz
+https://github.com/Yendy/petkari.cz/blob/master/notifikace/Email%20po%20registraci
 
 Hláška na WEBU
-“Děkujeme za podání žádosti o účet. Vaše žádost momentálně čeká na schválení administrátora webu.
-Zatím si můžete přečíst uvítací zprávu s dalšími instrukcemi, jež byla odeslána na Vaši e-mailovou adresu.”
-Tu druhou část bych vypustil, v té zprávě vůbec nic není napsané. nemá smysl to tam psát, jen to mate.
+https://github.com/Yendy/petkari.cz/blob/master/notifikace/Hl%C3%A1%C5%A1ka%20na%20WEBU%20po%20registraci
 
 Email o aktivaci
+https://github.com/Yendy/petkari.cz/blob/master/notifikace/Email%20po%20aktivaci%20emailu
+
+Nic víc jsem tam nenašel
