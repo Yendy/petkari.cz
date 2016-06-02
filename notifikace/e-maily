@@ -1,0 +1,17 @@
+První přihlášení (na úvodní stránce): http://www.petkari.cz/
+Když se dostanu na web, chtěl bych jasně vidět co můžu udělat. Web máme uzamčený, takže musí být jasně vidět, že je nějaká registrace (pokud nejsem registrovaný) Vzal bych si klidně vzor z http://hobr.cz/cs/login/ mají to pěkně udělané. 
+
+Co si tak všímám, chtělo by to chtělo aby tam to tlačítko “Registrovat” a “Přihlásit” bylo jasněji vidět.
+
+Registrace: http://www.petkari.cz/user/register
+Na téhle stránce bych asi nic neměl. Uvažuju jen o tom “oddílovém čísle”, můžeme to používat pro tu kontrolu. Ale jinak mi stránka přijde v pohodě (obsahově), ta grafika se musí měnit.
+
+Potvrzovací email:
+Email mi zkončil ve SPAMU!! to se musí opravit. Email teď chodí z adresy info@petkari.cz a já bych byl pro to změnit to na → registrace@petkari.cz
+
+Hláška na WEBU
+“Děkujeme za podání žádosti o účet. Vaše žádost momentálně čeká na schválení administrátora webu.
+Zatím si můžete přečíst uvítací zprávu s dalšími instrukcemi, jež byla odeslána na Vaši e-mailovou adresu.”
+Tu druhou část bych vypustil, v té zprávě vůbec nic není napsané. nemá smysl to tam psát, jen to mate.
+
+Email o aktivaci
