@@ -23,9 +23,15 @@ Uživatel
     1. Vzniká až s registrací a potvrzením.
     2. Je to profil, ve kterém má každý člen (uživatel) vše pod kontrolou. Může nastavovat, jaké informace o něm jsou viditelné.
     3. V této části lze nastavit, budou-li tě moci ostatní členové kontkatovat.
-3. Vkládání a označování fotografií
-Proč fotografie označujeme.
-Jaká jsou doporučená označení fotky.
+<h2>3. Vkládání a označování fotografií</h2>
+<h3>Proč fotografie označujeme</h3>
+Fotografii, později videa, bereme jako velmi podstatnou část webu, s někým jiným než s bývalými či současnými členy Pětky se dají sdílet jen velmi omezeně, většinou v kruhu rodinném. Očekáváme, že takových příspěvků bude mnoho.
+Proto je hned na začátku vhotné tento typ obsahu alespoň nějak popsat, katalogizovat. V tuto chvíli můžeme fotografii přiřadit k táboru, klubovně a pokud to nestačí, je možné zapsat slova do Tagu.
+Tag je specifické pole, které pracuje se slovy. Napíšeme-li do něj např. "Modřín" nebo "Nurmi", můžeme později obsah filtrovat podle těchto slov.
+
+<h3>Jaká jsou doporučená označení fotky</h3>
+Označení táborů a kluboven se řeší pomocí přiřazení v příslušné nabídce při vytváření nebo editaci fotografie, ostatní lze přes tag. Je vhodné napsat místo, přezdívky členů, kteří se na fotce objevují apod.
+
 4. Galerie (souvisí s bodem 3.)
 5. Spoluvytváření obsahu
 Sekce webu
